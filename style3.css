@@ -53,13 +53,13 @@ h1 small { font:normal 16px/1.2em Georgia, "Times New Roman", Times, serif; lett
 .body_resize { margin:0 auto; padding:5px 0 0 0; width:910px;}
 .body { margin:0; padding:5px 25px 40px 25px; background: #fff url(images/body_bg.gif) top repeat-x; border-top:2px solid #fff;}
 .body h2 {  font: normal 30px "Times New Roman", Times, serif; color:#575656; padding:3px 0 3px 0; margin:5px 0 10px 10px;}
-.body p { font: normal 19px "Times New Roman", Times, serif; color:#575656; padding:5px; margin:0; line-height:1.6em;}
+.body p {font:normal 11px/15px verdana,serif; color:#7F7C77; padding:5px; margin:0; line-height:1.6em;}
 .body p span { font: bold 14px "Times New Roman", Times, serif; color:#6abf79;}
 .body img {  margin:5px 0; padding:0;}
 .body img.floated { float:left; margin:10px; padding:0;}
 .body a { color:#69bacb; text-decoration:none;}
-.left { float:right; width:625px; margin:0; padding:10px;}
-.right { float:left; width:245px; margin:0; padding:10px;}
+.left { float:right; width:245px; margin:0; padding:10px;}
+.right { float:left; width:625px; margin:0; padding:10px;}
 .right .blog { border:1px solid #dedede; margin:10px 0; padding:10px; background:#fff;}
 .right ul { list-style:none; margin:5px 15px; padding:0;}
 .right li { font: normal 14px Arial, Helvetica, sans-serif; color:#464646;  padding:5px 0; margin:3px 0;}

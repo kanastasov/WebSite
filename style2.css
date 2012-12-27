@@ -14,7 +14,7 @@ body {
 
 
 
-html, .main { padding:0; margin:0; background:#989791 url(images/main_bg.jpg) top center repeat-x;}
+html, .main { padding:0; margin:0;}
 .clr { clear:both; padding:0; margin:0; width:100%; font-size:0px; line-height:0px;}
 .logo { padding:20px 0 50px 20px; margin:0 auto; width:950px;}
 .logo img { float:left; margin:0 10px 0 0; }
@@ -72,7 +72,7 @@ ul.ex_menu li a:hover { text-decoration:none;}
 .content .mainbar .comment img.userpic { border:1px solid #dedede; margin:10px 16px 0 0; padding:0; float:left;}
 
 /* fbg */
-.fbg { padding:10px 0 0 0; background:#989791 url(images/footer_bg.gif) bottom repeat-x;}
+.fbg { padding:10px 0 0 0;}
 .fbg_resize { margin:0 auto; width:910px; background:#fff; border:10px solid #898781; padding:20px;}
 .fbg  h2 { color:#595959;}
 .fbg  p { color:#595959;}

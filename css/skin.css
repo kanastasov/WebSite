@@ -24,7 +24,7 @@ ul li, ol li {
 .header {
   margin:1px 0 3em 0;
   padding:2em 2% 0 2%;
-  border-top:4px solid #169fe5;
+  border-top:4px solid #000;
 }
 
 .logo {
@@ -115,18 +115,18 @@ ul li, ol li {
 
 .hero h1 {
   font-size:24px;
-  color:#dde5ef;
+  color:#000;
 }
 
 h1, h2 {
   font-weight:normal;
-  color:#fefefe;
+  color:#000;
   font-family:georgia, serif;
 }
 
 h3, h4, h5, h6 {
   font-weight:normal;
-  color:#fefefe;
+  color:#000;
   font-family:georgia, serif;
 }
 
