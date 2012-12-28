@@ -119,12 +119,12 @@ h5 {font-size:10px; color:#000; margin:5px 15px}
 /* CONTENT AND COLUMNS */
 #content {background:#f3f2f0 url('images/bg_page.gif') repeat-y top left}
 #content a:link, #content a:visited {text-decoration:none; color:#1c4851; font-weight:bold}
-#cA {float:left; width:270px; margin:0 11px 0 30px; display:inline}
+#cA {float:left; width:260px; margin:0 11px 0 30px; display:inline; border: 1px solid #DDD;}
 .Ctopleft {background:url('images/corners_top.gif') no-repeat top left; width:9px; height:9px; overflow:hidden; float:left}
 #search {background:#a4c0ba; padding:10px 15px}
 #cA img {padding:4px; border:1px solid #d3cfce; margin:4px 7px 0 0}
 .testimonial {padding:10px; font:normal 10px arial,sans-serif}
-#cB {float:right; width:679px; margin:0 8px 0 0; display:inline}
+#cB {float:right; width:679px; margin:0 8px 0 0; display:inline; border: 1px solid #DDD;}
 .Ctopright {background:url('images/corners_top.gif') no-repeat top right; width:9px; height:9px; overflow:hidden; float:right}
 #cB1 {width:340px; float:left; padding:0 10px 5px 10px}
 .news {border-bottom:1px solid #e6e1dd; border-top:1px solid #fcfafb; padding:10px 15px 5px 15px}
@@ -181,6 +181,10 @@ height: 430px;
  padding: 15px;
 }
 
+.project-meta {
+
+margin-bottom: 15px;
+}
 .project-stats {
 	padding: 0px;
 	margin-bottom: 10px; 
